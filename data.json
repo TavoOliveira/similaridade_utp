@@ -1,0 +1,330 @@
+[
+    {
+        "Genero": "Aventura",
+        "Classificação Indicativa": "livre",
+        "Titulo": "A Ilha do Tesouro",
+        "Paginas": "304",
+        "Autor": "Robert Louis Stevenson",
+        "Capa": "https://linkdaimagem.com/livros/a_ilha_do_tesouro.png"
+    },
+    {
+        "Genero": "Aventura",0
+        "Classificação Indicativa": "10",
+        "Titulo": "Percy Jackson e os Olimpianos: O Ladrão de Raios",
+        "Paginas": "384",
+        "Autor": "Rick Riordan",
+        "Capa": "https://linkdaimagem.com/livros/percy_jackson_e_os_olimpianos.png"
+    },
+    {
+        "Genero": "Aventura",
+        "Classificação Indicativa": "16",
+        "Titulo": "O Código Da Vinci",
+        "Paginas": "592",
+        "Autor": "Dan Brown",
+        "Capa": "https://linkdaimagem.com/livros/o_codigo_da_vinci.png"
+    },
+    {
+        "Genero": "Terror",
+        "Classificação Indicativa": "Livre",
+        "Titulo": "O Fantasma de Canterville",
+        "Paginas": "120",
+        "Autor": "Oscar Wilde",
+        "Capa": "https://linkdaimagem.com/livros/o_fantasma_de_canterville.png"
+    },
+    {
+        "Genero": "Terror",
+        "Classificação Indicativa": "14",
+        "Titulo": "A Casa Infernal",
+        "Paginas": "320",
+        "Autor": "Richard Matheson",
+        "Capa": "https://linkdaimagem.com/livros/a_casa_infernal.png"
+    },
+    {
+        "Genero": "Terror",
+        "Classificação Indicativa": "18",
+        "Titulo": "O Iluminado",
+        "Paginas": "528",
+        "Autor": "Stephen King",
+        "Capa": "https://linkdaimagem.com/livros/o_iluminado.png"
+    },
+    {
+        "Genero": "Comédia",
+        "Classificação Indicativa": "10",
+        "Titulo": "O Clube da Luta",
+        "Paginas": "208",
+        "Autor": "Chuck Palahniuk",
+        "Capa": "https://linkdaimagem.com/livros/clube_da_luta.png"
+    },
+    {
+        "Genero": "Comédia",
+        "Classificação Indicativa": "12",
+        "Titulo": "As Aventuras de Huckleberry Finn",
+        "Paginas": "296",
+        "Autor": "Mark Twain",
+        "Capa": "https://linkdaimagem.com/livros/as_aventuras_de_huckleberry_finn.png"
+    },
+    {
+        "Genero": "Religião",
+        "Classificação Indicativa": "Livre",
+        "Titulo": "A Cabana",
+        "Paginas": "240",
+        "Autor": "William P. Young",
+        "Capa": "https://linkdaimagem.com/livros/a_cabana.png"
+    },
+    {
+        "Genero": "Religião",
+        "Classificação Indicativa": "Livre",
+        "Titulo": "O Poder da Esperança",
+        "Paginas": "128",
+        "Autor": "Julián Melgosa & Michelson Borges",
+        "Capa": "https://linkdaimagem.com/livros/o_poder_da_esperanca.png"
+    },
+    {
+        "Genero": "Religião",
+        "Classificação Indicativa": "Livre",
+        "Titulo": "Em Seus Passos o Que Faria Jesus?",
+        "Paginas": "296",
+        "Autor": "Charles Sheldon",
+        "Capa": "https://linkdaimagem.com/livros/em_seus_passos_o_que_faria_jesus.png"
+    },
+    {
+        "Genero": "Suspense",
+        "Classificação Indicativa": "12",
+        "Titulo": "Garota Exemplar",
+        "Paginas": "448",
+        "Autor": "Gillian Flynn",
+        "Capa": "https://linkdaimagem.com/livros/garota_exemplar.png"
+    },
+    {
+        "Genero": "Suspense",
+        "Classificação Indicativa": "14",
+        "Titulo": "A Paciente Silenciosa",
+        "Paginas": "336",
+        "Autor": "Alex Michaelides",
+        "Capa": "https://linkdaimagem.com/livros/la_paciente_silenciosa.png"
+    },
+    {
+        "Genero": "Ação",
+        "Classificação Indicativa": "10",
+        "Titulo": "As Aventuras de Sherlock Holmes",
+        "Paginas": "320",
+        "Autor": "Arthur Conan Doyle",
+        "Capa": "https://linkdaimagem.com/livros/las_aventuras_de_sherlock_holmes.png"
+    },
+    {
+        "Genero": "Ação",
+        "Classificação Indicativa": "16",
+        "Titulo": "O concorrente",
+        "Paginas": "512",
+        "Autor": "Stephen King",
+        "Capa": "https://linkdaimagem.com/livros/o_concorrente.png"
+    },
+    {
+        "Genero": "Ação",
+        "Classificação Indicativa": "18",
+        "Titulo": "Jogos Vorazes",
+        "Paginas": "400",
+        "Autor": "Suzanne Collins",
+        "Capa": "https://linkdaimagem.com/livros/jogos_vorazes.png"
+    },
+    {
+        "Genero": "Mistério",
+        "Classificação Indicativa": "14",
+        "Titulo": "A Menina que Roubava Livros",
+        "Paginas": "480",
+        "Autor": "Markus Zusak",
+        "Capa": "https://linkdaimagem.com/livros/a_menina_que_roubava_livros.png"
+    },
+    {
+        "Genero": "Mistério",
+        "Classificação Indicativa": "12",
+        "Titulo": "O Nome da Rosa",
+        "Paginas": "552",
+        "Autor": "Umberto Eco",
+        "Capa": "https://linkdaimagem.com/livros/o_nome_da_rosa_umberto_eco.png"
+    },
+    {
+        "Genero": "Mistério",
+        "Classificação Indicativa": "18",
+        "Titulo": "O Chamado de Cthulhu",
+        "Paginas": "128",
+        "Autor": "H.P. Lovecraft",
+        "Capa": "https://linkdaimagem.com/livros/o_chamado_de_cthulhu_e_outros_contos.png"
+    },
+    {
+        "Genero": "Romance",
+        "Classificação Indicativa": "10",
+        "Titulo": "Pollyanna",
+        "Paginas": "240",
+        "Autor": "Eleanor H. Porter",
+        "Capa": "https://linkdaimagem.com/livros/pollyanna.png"
+    },
+    {
+        "Genero": "Romance",
+        "Classificação Indicativa": "18",
+        "Titulo": "Cem Anos de Solidão",
+        "Paginas": "448",
+        "Autor": "Gabriel García Márquez",
+        "Capa": "https://linkdaimagem.com/livros/cem_anos_de_solidao.png"
+    },
+    {
+        "Genero": "Romance",
+        "Classificação Indicativa": "14",
+        "Titulo": "P.S. Eu Te Amo",
+        "Paginas": "368",
+        "Autor": "Cecelia Ahern",
+        "Capa": "https://linkdaimagem.com/livros/ps_eu_amo_te.png"
+    },
+    {
+        "Genero": "Autoajuda",
+        "Classificação Indicativa": "14",
+        "Titulo": "A Sutil Arte de Ligar o F*da-se",
+        "Paginas": "224",
+        "Autor": "Mark Manson",
+        "Capa": "https://linkdaimagem.com/livros/a_sutil_arte_de_ligar_o_foda_se.png"
+    },
+    {
+        "Genero": "Autoajuda",
+        "Classificação Indicativa": "Livre",
+        "Titulo": "O Poder do Agora",
+        "Paginas": "224",
+        "Autor": "Eckhart Tolle",
+        "Capa": "https://linkdaimagem.com/livros/o_poder_do_agora.png"
+    },
+    {
+        "Genero": "Autoajuda",
+        "Classificação Indicativa": "16",
+        "Titulo": "Mais Esperto que o Diabo",
+        "Paginas": "304",
+        "Autor": "Napoleon Hill",
+        "Capa": "https://linkdaimagem.com/livros/mais_esperto_que_o_diabo.png"
+    },
+    {
+        "Genero": "Autoajuda",
+        "Classificação Indicativa": "18",
+        "Titulo": "Os Segredos da Mente Milionária",
+        "Paginas": "176",
+        "Autor": "T. Harv Eker",
+        "Capa": "https://linkdaimagem.com/livros/os_segredos_da_mente_milionaria.png"
+    },
+    {
+        "Genero": "Psicologia",
+        "Classificação Indicativa": "12",
+        "Titulo": "O Homem que Confundiu sua Mulher com um Chapéu",
+        "Paginas": "288",
+        "Autor": "Oliver Sacks",
+        "Capa": "https://linkdaimagem.com/livros/o_homem_que_confundiu_sua_mulher_com_um_chapeu.png"
+    },
+    {
+        "Genero": "Psicologia",
+        "Classificação Indicativa": "Livre",
+        "Titulo": "Rápido e Devagar: Duas Formas de Pensar",
+        "Paginas": "608",
+        "Autor": "Daniel Kahneman",
+        "Capa": "https://linkdaimagem.com/livros/rapido_e_devagar_duas_formas_de_pensar.png"
+    },
+    {
+        "Genero": "Psicologia",
+        "Classificação Indicativa": "18",
+        "Titulo": "O Mal Estar na Civilização",
+        "Paginas": "160",
+        "Autor": "Sigmund Freud",
+        "Capa": "https://linkdaimagem.com/livros/o_mal_estar_na_civilizacao.png"
+    },
+    {
+        "Genero": "Técnico",
+        "Classificação Indicativa": "16",
+        "Titulo": "Máquinas Elétricas",
+        "Paginas": "800",
+        "Autor": "Stephen J. Chapman",
+        "Capa": "https://linkdaimagem.com/livros/maquinas_eletricas.png"
+    },
+    {
+        "Genero": "Técnico",
+        "Classificação Indicativa": "12",
+        "Titulo": "Engenharia de Software",
+        "Paginas": "624",
+        "Autor": "Roger S. Pressman",
+        "Capa": "https://linkdaimagem.com/livros/engenharia_de_software_uma_abordagem_profissional.png"
+    },
+    {
+        "Genero": "Técnico",
+        "Classificação Indicativa": "Livre",
+        "Titulo": "Introdução à Programação com Python",
+        "Paginas": "400",
+        "Autor": "Nilo Ney Coutinho Menezes",
+        "Capa": "https://linkdaimagem.com/livros/introducao_a_programacao_com_python.png"
+    },
+    {
+        "Genero": "Infantil",
+        "Classificação Indicativa": "Livre",
+        "Titulo": "O Pequeno Príncipe",
+        "Paginas": "96",
+        "Autor": "Antoine de Saint-Exupéry",
+        "Capa": "https://linkdaimagem.com/livros/o_pequeno_principe.png"
+    },
+    {
+        "Genero": "Infantil",
+        "Classificação Indicativa": "12",
+        "Titulo": "Percy Jackson e o Ladrão de Raios",
+        "Paginas": "400",
+        "Autor": "Rick Riordan",
+        "Capa": "https://linkdaimagem.com/livros/percy_jackson_e_os_olimpianos.png"
+    },
+    {
+        "Genero": "Infantil",
+        "Classificação Indicativa": "10",
+        "Titulo": "As Crônicas de Nárnia",
+        "Paginas": "752",
+        "Autor": "C.S. Lewis",
+        "Capa": "https://linkdaimagem.com/livros/as_cronicas_de_narnia.png"
+    },
+    {
+        "Genero": "Culinária",
+        "Classificação Indicativa": "12",
+        "Titulo": "O Livro de Receitas de Minha Mãe",
+        "Paginas": "280",
+        "Autor": "Nigella Lawson",
+        "Capa": "https://linkdaimagem.com/livros/good_food_fast.png"
+    },
+    {
+        "Genero": "Culinária",
+        "Classificação Indicativa": "18",
+        "Titulo": "Ferran Adrià: O Livro",
+        "Paginas": "448",
+        "Autor": "Ferran Adrià",
+        "Capa": "https://linkdaimagem.com/livros/as_revolucoes_de_ferran_adria.png"
+    },
+    {
+        "Genero": "Culinária",
+        "Classificação Indicativa": "14",
+        "Titulo": "A Cozinha de Jamie: Receitas para Todos",
+        "Paginas": "368",
+        "Autor": "Jamie Oliver",
+        "Capa": "https://linkdaimagem.com/livros/comida_caseira.png"
+    },
+    {
+        "Genero": "Estudos",
+        "Classificação Indicativa": "Livre",
+        "Titulo": "O Andar do Bêbado",
+        "Paginas": "288",
+        "Autor": "Leonard Mlodinow",
+        "Capa": "https://linkdaimagem.com/livros/o_andar_do_bebado.png"
+    },
+    {
+        "Genero": "Estudos",
+        "Classificação Indicativa": "",
+        "Titulo": "Freakonomics",
+        "Paginas": "320",
+        "Autor": "Steven D. Levitt & Stephen J. Dubner",
+        "Capa": "https://linkdaimagem.com/livros/a_rogue_economist_explores_the_hidden_side_of_everything.png"
+    },
+    {
+        "Genero": "Estudos",
+        "Classificação Indicativa": "",
+        "Titulo": "Sapiens: Uma Breve História da Humanidade",
+        "Paginas": "512",
+        "Autor": "Yuval Noah Harari",
+        "Capa": "https://linkdaimagem.com/livros/uma_breve_historia_da_humanidade_sapiens.png"
+    }
+]
